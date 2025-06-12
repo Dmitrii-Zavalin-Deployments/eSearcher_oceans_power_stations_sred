@@ -14,3 +14,9 @@ site:https://www.blackrock.com/ch/individual/en/the-bid-podcasts
 site:https://archive.yardeni.com/morning-briefing-2025/
 site:https://www.tralac.org/news/news-archive.html
 site:https://download.asic.gov.au/media/5ewndd10/ok_redacted_australia-s-evolving-capital-markets-submission-to-asic-by-fiduciaae-28-april-2025_redacted.pdf
+site:https://lps25.esa.int/sessions/
+site:https://qna.files.parliament.uk/qnadailyreports/Written-Questions-Answers-Statements-Daily-Report-Commons-2025-06-05.pdf
+site:https://www.blackrock.com/ch/individual/en/the-bid-podcasts
+site:https://archive.yardeni.com/morning-briefing-2025/
+site:https://www.tralac.org/news/news-archive.html
+site:https://download.asic.gov.au/media/5ewndd10/ok_redacted_australia-s-evolving-capital-markets-submission-to-asic-by-fiduciaae-28-april-2025_redacted.pdf
