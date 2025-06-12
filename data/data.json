@@ -14,5 +14,9 @@
     ],
     "Wave Energy": [
         "This query was cleaned up at Thu 12 Jun 2025 01:33:41 PM ADT"
+    ],
+    "Tidal Power": [
+        "(funding OR grant) AND (\"tidal energy\" OR \"tidal power station\" OR \"tidal energy device component\") AND (\"feasibility validation\" OR \"conceptual design\" OR \"scalability roadmap\") filetype:pdf",
+        "https://students.uu.nl/sites/default/files/UAUCUU%20-%20VOLUME%202025.pdf"
     ]
 }
