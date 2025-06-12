@@ -1,0 +1,1 @@
+("Crowdfunding" OR "Grants" OR "Competitions" OR "Angel Investors" OR "Venture Capital" OR "Strategic Partnerships") AND ("renewable energy" OR "tidal energy" OR "wind energy" OR "wave energy") AND ("funding")
