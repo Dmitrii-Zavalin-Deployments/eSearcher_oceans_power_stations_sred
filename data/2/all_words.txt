@@ -1,1 +1,1 @@
-(funding OR grant) AND ("tidal" OR "tide" OR "tid") AND ("feasibility validation" OR "conceptual design" OR "scalability roadmap")
+tidal grant application "early-stage" funding apply
