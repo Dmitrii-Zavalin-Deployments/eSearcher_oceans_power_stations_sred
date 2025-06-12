@@ -1,1 +1,1 @@
-(funding OR grant) AND ("wind energy" OR "wind" OR "wind turbine") AND ("feasibility validation" OR "conceptual design" OR "scalability roadmap")
+wind grant application "early-stage" funding apply
