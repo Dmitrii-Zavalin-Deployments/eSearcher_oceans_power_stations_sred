@@ -1,17 +1,18 @@
 {
-  "Oceans Power Station": [
-    "This query was cleaned up at Thu 12 Jun 2025 01:33:41 PM ADT"
-  ],
-  "Global Asteroid Defense Job Search": [
-    "This query was cleaned up at Thu 12 Jun 2025 01:33:41 PM ADT"
-  ],
-  "Oceans Power Stations": [
-    "This query was cleaned up at Thu 12 Jun 2025 01:33:41 PM ADT"
-  ],
-  "Offshore Wind": [
-    "This query was cleaned up at Thu 12 Jun 2025 01:33:41 PM ADT"
-  ],
-  "Wave Energy": [
-    "This query was cleaned up at Thu 12 Jun 2025 01:33:41 PM ADT"
-  ]
+    "Oceans Power Station": [
+        "This query was cleaned up at Thu 12 Jun 2025 01:33:41 PM ADT"
+    ],
+    "Global Asteroid Defense Job Search": [
+        "This query was cleaned up at Thu 12 Jun 2025 01:33:41 PM ADT"
+    ],
+    "Oceans Power Stations": [
+        "This query was cleaned up at Thu 12 Jun 2025 01:33:41 PM ADT"
+    ],
+    "Offshore Wind": [
+        "This query was cleaned up at Thu 12 Jun 2025 01:33:41 PM ADT",
+        "Query exceeds 32 words (37 words). Please shorten the query."
+    ],
+    "Wave Energy": [
+        "This query was cleaned up at Thu 12 Jun 2025 01:33:41 PM ADT"
+    ]
 }
