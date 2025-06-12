@@ -1,1 +1,1 @@
-(funding OR grant) AND ("wave energy" OR "wave") AND ("feasibility validation" OR "conceptual design")
+"wave energy" grant application "early-stage" funding apply
