@@ -13,7 +13,10 @@
         "Query exceeds 32 words (37 words). Please shorten the query."
     ],
     "Wave Energy": [
-        "This query was cleaned up at Thu 12 Jun 2025 01:33:41 PM ADT"
+        "This query was cleaned up at Thu 12 Jun 2025 01:33:41 PM ADT",
+        "(funding OR grant) AND (\"wave energy\" OR \"wave\") AND (\"feasibility validation\" OR \"conceptual design\") filetype:pdf",
+        "https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2025.1603106/pdf",
+        "https://www.nyc.gov/assets/cdbgdr/documents/amendments/HPER_APA%2026%20Amendment_05.19.2025.pdf"
     ],
     "Tidal Power": [
         "(funding OR grant) AND (\"tidal energy\" OR \"tidal power station\" OR \"tidal energy device component\") AND (\"feasibility validation\" OR \"conceptual design\" OR \"scalability roadmap\") filetype:pdf",
