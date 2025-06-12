@@ -20,7 +20,9 @@
         "This query was cleaned up at Thu 12 Jun 2025 01:33:41 PM ADT",
         "(funding OR grant) AND (\"wave energy\" OR \"wave\") AND (\"feasibility validation\" OR \"conceptual design\") filetype:pdf",
         "https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2025.1603106/pdf",
-        "https://www.nyc.gov/assets/cdbgdr/documents/amendments/HPER_APA%2026%20Amendment_05.19.2025.pdf"
+        "https://www.nyc.gov/assets/cdbgdr/documents/amendments/HPER_APA%2026%20Amendment_05.19.2025.pdf",
+        "\"wave energy\" grant application \"early-stage\" funding apply - -site:https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2025.1603106/pdf -site:https://www.nyc.gov/assets/cdbgdr/documents/amendments/HPER_APA%2026%20Amendment_05.19.2025.pdf filetype:pdf",
+        "No links found"
     ],
     "Tidal Power": [
         "(funding OR grant) AND (\"tidal energy\" OR \"tidal power station\" OR \"tidal energy device component\") AND (\"feasibility validation\" OR \"conceptual design\" OR \"scalability roadmap\") filetype:pdf",
