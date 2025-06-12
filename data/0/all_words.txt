@@ -1,1 +1,1 @@
-(funding OR grant) AND ("wave energy" OR "wave power station" OR "wave energy converter component") AND ("feasibility validation" OR "conceptual design" OR "scalability roadmap") AND (IRENA OR ARPA-E OR "Horizon Europe") site:.gov OR site:.eu OR site:.org
+(funding OR grant) AND ("wave energy" OR "wave power station") AND ("feasibility validation" OR "conceptual design")

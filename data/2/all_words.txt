@@ -1,1 +1,1 @@
-(funding OR grant) AND ("tidal energy" OR "tidal power station" OR "tidal energy device component") AND ("feasibility validation" OR "conceptual design" OR "scalability roadmap") AND (IRENA OR ARPA-E OR "Horizon Europe") site:.gov OR site:.eu OR site:.org
+(funding OR grant) AND ("tidal energy" OR "tidal power station" OR "tidal energy device component") AND ("feasibility validation" OR "conceptual design" OR "scalability roadmap")

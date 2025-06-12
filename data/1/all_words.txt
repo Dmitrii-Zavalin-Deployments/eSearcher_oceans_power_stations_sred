@@ -1,1 +1,1 @@
-(funding OR grant) AND ("offshore wind energy" OR "floating wind platform" OR "offshore wind turbine component") AND ("feasibility validation" OR "conceptual design" OR "scalability roadmap") AND (IRENA OR ARPA-E OR "Horizon Europe") site:.gov OR site:.eu OR site:.org
+(funding OR grant) AND ("offshore wind energy" OR "floating wind platform" OR "offshore wind turbine component") AND ("feasibility validation" OR "conceptual design" OR "scalability roadmap")
