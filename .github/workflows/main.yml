@@ -1,0 +1,52 @@
+name: eSearcher
+
+on:
+  # push:
+  #   branches:
+  #     - main
+  #     - development
+  schedule:
+    - cron: '*/15 * * * *' # Runs every 15 minutes
+
+env:
+  API_KEY: ${{ secrets.API_KEY }}
+  SEARCH_ENGINE_ID: ${{ secrets.SEARCH_ENGINE_ID }}
+  NUMBER_OF_QUERIES: 2  # Set this to the number of folders with numbers (0,1,2,...) in eSearcher/data directory (for example, if there is only folder 0, set this as 1 (one folder))
+
+jobs:
+  e_searching:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python 3
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Unit Tests
+        run: python -m unittest discover -s tests
+
+      - name: Set run number
+        run: echo "GITHUB_RUN_NUMBER=${{ github.run_number }}" >> $GITHUB_ENV
+
+      - name: Run eSearcher
+        run: python main.py
+
+      - name: Commit and push changes
+        env:
+          MY_USER: ${{ secrets.MY_USER }}
+          MY_USER_EMAIL: ${{ secrets.MY_USER_EMAIL }}
+          GITHUB_RUN_NUMBER: ${{ env.GITHUB_RUN_NUMBER }}
+        run: |
+          git config --global user.name "${{ secrets.MY_USER }}"
+          git config --global user.email "${{ secrets.MY_USER_EMAIL }}"
+          git add data/data.json information.html data/*/none_words.txt
+          git commit -m "Update data.json, information.html, and none_words.txt with run number $GITHUB_RUN_NUMBER" -a || echo "No changes to commit"
+          git push origin "${{ github.ref }}" || echo "No changes to push"
