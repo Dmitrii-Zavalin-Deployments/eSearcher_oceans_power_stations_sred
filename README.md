@@ -6,7 +6,7 @@ The search service is provided by Google (https://www.google.com) according to t
 
 ## Link to the search details
 
-https://dmitrii-zavalin-deployments.github.io/eSearcher/information.html
+https://dmitrii-zavalin-deployments.github.io/eSearcher_oceans_power_stations_sred/information.html
 
 ## How to add new search requests
 
