@@ -1,1 +1,1 @@
-"wave energy" grant application "early-stage" apply
+"wave energy" ("funding opportunity" OR "request for proposals" OR "grant program") (open OR current)

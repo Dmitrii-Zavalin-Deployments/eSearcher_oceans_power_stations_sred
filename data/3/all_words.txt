@@ -1,1 +1,1 @@
-ocean energy application "early-stage" apply
+"ocean energy" ("funding opportunity" OR "request for proposals" OR "grant program") (open OR current)

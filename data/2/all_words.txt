@@ -1,1 +1,1 @@
-tidal grant application "early-stage" apply
+tidal ("funding opportunity" OR "request for proposals" OR "grant program") (open OR current)

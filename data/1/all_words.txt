@@ -1,1 +1,1 @@
-wind grant application "early-stage" apply
+wind ("funding opportunity" OR "request for proposals" OR "grant program") (open OR current)
