@@ -1,8 +1,1 @@
-<<<<<<< Updated upstream
 
-site:https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2025.1603106/pdf
-site:https://dnr.wisconsin.gov/sites/default/files/topic/Aid/grants/surfacewater/CF0002.pdf
-site:https://www.congress.gov/crs_external_products/R/PDF/R48551/R48551.2.pdf
-site:https://static.e-publishing.af.mil/production/1/af_se/publication/desr6055.09_dafman91-201/desr6055.09_dafman91-201.pdf
-=======
->>>>>>> Stashed changes
