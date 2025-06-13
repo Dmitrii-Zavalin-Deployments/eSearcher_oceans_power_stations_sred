@@ -29,6 +29,8 @@
         "No links found"
     ],
     "Broad Ocean Energy Grants": [
-        "This query was cleaned up at Fri 13 Jun 2025 04:56:28 PM ADT"
+        "This query was cleaned up at Fri 13 Jun 2025 04:56:28 PM ADT",
+        "\"ocean energy\" (\"funding opportunity\" OR \"request for proposals\" OR \"grant program\") (open OR current) -<<<<<<< Updated upstream -<<<<<<< Updated upstream - -site:https://www.mainelegislature.org/legis/statutes/35-a/title35-Ach34.pdf -======= ->>>>>>> Stashed changes -======= ->>>>>>> Stashed changes filetype:pdf",
+        "No links found"
     ]
 }
