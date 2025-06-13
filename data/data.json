@@ -1,28 +1,30 @@
 {
-  "Oceans Power Station": [
-    "This query was cleaned up at Thu 12 Jun 2025 01:33:41 PM ADT"
-  ],
-  "Global Asteroid Defense Job Search": [
-    "This query was cleaned up at Thu 12 Jun 2025 01:33:41 PM ADT"
-  ],
-  "Oceans Power Stations": [
-    "This query was cleaned up at Thu 12 Jun 2025 01:33:41 PM ADT"
-  ],
-  "Offshore Wind": [
-    "This query was cleaned up at Fri 13 Jun 2025 03:55:47 PM ADT",
-    "wind grant application \"early-stage\" apply - -site:https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2025.1603106/pdf -site:https://dnr.wisconsin.gov/sites/default/files/topic/Aid/grants/surfacewater/CF0002.pdf -site:https://www.congress.gov/crs_external_products/R/PDF/R48551/R48551.2.pdf filetype:pdf",
-    "https://static.e-publishing.af.mil/production/1/af_se/publication/desr6055.09_dafman91-201/desr6055.09_dafman91-201.pdf"
-  ],
-  "Wave Energy": [
-    "This query was cleaned up at Fri 13 Jun 2025 03:55:47 PM ADT",
-    "\"wave energy\" grant application \"early-stage\" apply - -site:https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2025.1603106/pdf -site:https://www.nyc.gov/assets/cdbgdr/documents/amendments/HPER_APA%2026%20Amendment_05.19.2025.pdf filetype:pdf",
-    "No links found"
-  ],
-  "Tidal Power": [
-    "This query was cleaned up at Fri 13 Jun 2025 04:11:02 PM ADT",
-    "Query exceeds 32 words (34 words). Please shorten the query."
-  ],
-  "Broad Ocean Energy Grants": [
-    "This query was cleaned up at Fri 13 Jun 2025 04:56:28 PM ADT"
-  ]
+    "Oceans Power Station": [
+        "This query was cleaned up at Thu 12 Jun 2025 01:33:41 PM ADT"
+    ],
+    "Global Asteroid Defense Job Search": [
+        "This query was cleaned up at Thu 12 Jun 2025 01:33:41 PM ADT"
+    ],
+    "Oceans Power Stations": [
+        "This query was cleaned up at Thu 12 Jun 2025 01:33:41 PM ADT"
+    ],
+    "Offshore Wind": [
+        "This query was cleaned up at Fri 13 Jun 2025 03:55:47 PM ADT",
+        "wind grant application \"early-stage\" apply - -site:https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2025.1603106/pdf -site:https://dnr.wisconsin.gov/sites/default/files/topic/Aid/grants/surfacewater/CF0002.pdf -site:https://www.congress.gov/crs_external_products/R/PDF/R48551/R48551.2.pdf filetype:pdf",
+        "https://static.e-publishing.af.mil/production/1/af_se/publication/desr6055.09_dafman91-201/desr6055.09_dafman91-201.pdf"
+    ],
+    "Wave Energy": [
+        "This query was cleaned up at Fri 13 Jun 2025 03:55:47 PM ADT",
+        "\"wave energy\" grant application \"early-stage\" apply - -site:https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2025.1603106/pdf -site:https://www.nyc.gov/assets/cdbgdr/documents/amendments/HPER_APA%2026%20Amendment_05.19.2025.pdf filetype:pdf",
+        "No links found",
+        "\"wave energy\" (\"funding opportunity\" OR \"request for proposals\" OR \"grant program\") (open OR current) filetype:pdf",
+        "https://dos.ny.gov/june-4-2025vol-xlvii-issue-22"
+    ],
+    "Tidal Power": [
+        "This query was cleaned up at Fri 13 Jun 2025 04:11:02 PM ADT",
+        "Query exceeds 32 words (34 words). Please shorten the query."
+    ],
+    "Broad Ocean Energy Grants": [
+        "This query was cleaned up at Fri 13 Jun 2025 04:56:28 PM ADT"
+    ]
 }
