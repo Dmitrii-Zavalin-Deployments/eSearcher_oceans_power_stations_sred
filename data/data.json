@@ -19,7 +19,8 @@
         "No links found"
     ],
     "Tidal Power": [
-        "This query was cleaned up at Fri 13 Jun 2025 04:11:02 PM ADT"
+        "This query was cleaned up at Fri 13 Jun 2025 04:11:02 PM ADT",
+        "Query exceeds 32 words (34 words). Please shorten the query."
     ],
     "Broad Ocean Energy Grants": [
         "ocean energy application \"early-stage\" funding apply - -site:https://students.uu.nl/sites/default/files/UAUCUU%20-%20VOLUME%202025.pdf filetype:pdf",
