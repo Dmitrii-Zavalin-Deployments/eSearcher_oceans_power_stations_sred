@@ -22,6 +22,8 @@
         "No links found"
     ],
     "Broad Ocean Energy Grants": [
-        "This query was cleaned up at Sat 14 Jun 2025 12:31:56 PM ADT"
+        "This query was cleaned up at Sat 14 Jun 2025 12:31:56 PM ADT",
+        "(\"grant application\" OR \"funding opportunity\") (\"deadline\" OR \"due date\") (\"submit\" OR \"apply\" OR \"file\") (\"request for proposals\" OR \"call for proposals\" OR \"bid\") \"ocean energy\" filetype:pdf",
+        "No links found"
     ]
 }
