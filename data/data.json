@@ -1,23 +1,25 @@
 {
-  "Oceans Power Station": [
-    "This query was cleaned up at Thu 12 Jun 2025 01:33:41 PM ADT"
-  ],
-  "Global Asteroid Defense Job Search": [
-    "This query was cleaned up at Thu 12 Jun 2025 01:33:41 PM ADT"
-  ],
-  "Oceans Power Stations": [
-    "This query was cleaned up at Thu 12 Jun 2025 01:33:41 PM ADT"
-  ],
-  "Offshore Wind": [
-    "This query was cleaned up at Sat 14 Jun 2025 12:31:56 PM ADT"
-  ],
-  "Wave Energy": [
-    "This query was cleaned up at Sat 14 Jun 2025 12:31:56 PM ADT"
-  ],
-  "Tidal Power": [
-    "This query was cleaned up at Sat 14 Jun 2025 12:31:56 PM ADT"
-  ],
-  "Broad Ocean Energy Grants": [
-    "This query was cleaned up at Sat 14 Jun 2025 12:31:56 PM ADT"
-  ]
+    "Oceans Power Station": [
+        "This query was cleaned up at Thu 12 Jun 2025 01:33:41 PM ADT"
+    ],
+    "Global Asteroid Defense Job Search": [
+        "This query was cleaned up at Thu 12 Jun 2025 01:33:41 PM ADT"
+    ],
+    "Oceans Power Stations": [
+        "This query was cleaned up at Thu 12 Jun 2025 01:33:41 PM ADT"
+    ],
+    "Offshore Wind": [
+        "This query was cleaned up at Sat 14 Jun 2025 12:31:56 PM ADT",
+        "(\"grant application\" OR \"funding opportunity\") (\"deadline\" OR \"due date\") (\"submit\" OR \"apply\" OR \"file\") (\"request for proposals\" OR \"call for proposals\" OR \"bid\") \"wind energy\" filetype:pdf",
+        "https://docs.legis.wisconsin.gov/document/statutes/16.pdf"
+    ],
+    "Wave Energy": [
+        "This query was cleaned up at Sat 14 Jun 2025 12:31:56 PM ADT"
+    ],
+    "Tidal Power": [
+        "This query was cleaned up at Sat 14 Jun 2025 12:31:56 PM ADT"
+    ],
+    "Broad Ocean Energy Grants": [
+        "This query was cleaned up at Sat 14 Jun 2025 12:31:56 PM ADT"
+    ]
 }
