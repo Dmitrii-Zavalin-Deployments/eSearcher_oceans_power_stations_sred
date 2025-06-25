@@ -1,2 +1,3 @@
 
 site:https://docs.legis.wisconsin.gov/document/statutes/16.pdf
+site:https://www.usbr.gov/watersmart///weeg/docs/2024/WEEG-126_ParadiseValleyIrrigationDistrict_508.pdf
