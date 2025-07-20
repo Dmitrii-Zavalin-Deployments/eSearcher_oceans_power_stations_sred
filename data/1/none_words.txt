@@ -3,3 +3,4 @@ site:https://docs.legis.wisconsin.gov/document/statutes/16.pdf
 site:https://www.usbr.gov/watersmart///weeg/docs/2024/WEEG-126_ParadiseValleyIrrigationDistrict_508.pdf
 site:https://www.usbr.gov/watersmart////weeg/docs/2014/DuchesneCoWCD_WaterEfficiency.pdf
 site:https://www.usbr.gov/watersmart/weeg/docs/2024/WEEG-026_PonderaCountyCanalandReservoirCompany_508.pdf
+site:https://www.rilegislature.gov/housefiscalreport/2020/FY%202026%20Budget%20as%20Enacted.pdf
