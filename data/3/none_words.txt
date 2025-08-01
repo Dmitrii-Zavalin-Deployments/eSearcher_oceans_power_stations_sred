@@ -4,3 +4,4 @@ site:https://www.appropriations.senate.gov/download/fy26-cjs-senate-report
 site:https://www.congress.gov/119/crpt/srpt44/CRPT-119srpt44.pdf
 site:https://www.appropriations.senate.gov/imo/media/doc/fy26_cjs_senate_report.pdf
 site:https://www.congress.gov/119/crpt/srpt46/CRPT-119srpt46.pdf
+site:https://www.appropriations.senate.gov/download/fy26-interior-senate-report
