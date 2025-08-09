@@ -4309,7 +4309,9 @@
         "(\"grant application\" OR \"funding opportunity\") (\"deadline\" OR \"due date\") (\"submit\" OR \"apply\" OR \"file\") (\"request for proposals\" OR \"call for proposals\" OR \"bid\") \"tidal power\" filetype:pdf",
         "No links found",
         "(\"grant application\" OR \"funding opportunity\") (\"deadline\" OR \"due date\") (\"submit\" OR \"apply\" OR \"file\") (\"request for proposals\" OR \"call for proposals\" OR \"bid\") \"tidal power\" filetype:pdf",
-        "https://arc.losrios.edu/catalog/compiled-catalog/arc-catalog-a_20467.pdf"
+        "https://arc.losrios.edu/catalog/compiled-catalog/arc-catalog-a_20467.pdf",
+        "(\"grant application\" OR \"funding opportunity\") (\"deadline\" OR \"due date\") (\"submit\" OR \"apply\" OR \"file\") (\"request for proposals\" OR \"call for proposals\" OR \"bid\") \"tidal power\" - -site:https://arc.losrios.edu/catalog/compiled-catalog/arc-catalog-a_20467.pdf filetype:pdf",
+        "No links found"
     ],
     "Broad Ocean Energy Grants": [
         "This query was cleaned up at Sat 14 Jun 2025 12:31:56 PM ADT",
