@@ -3,3 +3,4 @@ site:https://dep.nj.gov/wp-content/uploads/wlm/downloads/grants/2025-water-quali
 site:https://www.masscec.com/sites/default/files/documents/Ocean_Innovation_Network_RFP_Award_Deadline_Extended.pdf
 site:https://www.congress.gov/119/crpt/hrpt213/CRPT-119hrpt213.pdf
 site:https://www.njeda.gov/july-23-2025-eda-board-meeting-board-book/
+site:https://cetpartnership.eu/sites/default/files/documentation/Annex%20B%20-%20CETP%20JC2025%20National%20regional%20requirements%20and%20guidelines_2025_09_11%20%281%29.pdf
